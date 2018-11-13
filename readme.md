@@ -3,8 +3,9 @@
 
 ### Posso comer meu mel sem me preocupar com códigos não testados
 
- Instale as dependencias com comando **npm install**
- Para executar os testes digite **mocha** dentro da pasta src e seja feliz :smile:
+Instale as dependencias com comando **npm install**.
+
+Para executar os testes digite **mocha** dentro da pasta src e seja feliz. :smile:
 
 
 <p align="center">
