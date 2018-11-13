@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/ViniciusGularte/TDD_Mocha-Chai/issues"
   },
-  "directories":{
-    "test":"mocha"
+  "directories": {
+    "test": "mocha"
   },
   "devDependencies": {
     "chai": "^4.2.0",
